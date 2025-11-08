@@ -7,3 +7,24 @@ body {
 h1 {
     color: #333333; /* Um cinza escuro */
 }
+/* Estilos para o link "Voltar para a Home" */
+.link-voltar {
+    display: block;
+    margin-bottom: 20px;
+    color: #007bff; /* Azul vibrante */
+    text-decoration: none; /* Sem sublinhado */
+    font-weight: bold;
+    text-align: left;
+    max-width: 500px; /* Limita a largura para ficar alinhado aos módulos */
+    width: 90%;
+}
+
+/* Estilos para o Rodapé */
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 0.8em; /* Letra menor */
+    color: #999999; /* Cinza claro */
+    text-align: center;
+    width: 100%;
+}
